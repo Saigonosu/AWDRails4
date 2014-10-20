@@ -16,4 +16,4 @@
 /log/*.log
 /tmp
 
-/.sw*
+*.sw?
